@@ -11,7 +11,7 @@ stages:
 
 #Job 1: install
 Install:
-  stage: intall
+  stage: install
   script:
     - npm install
 #Job2: deploy
